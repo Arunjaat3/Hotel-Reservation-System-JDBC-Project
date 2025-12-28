@@ -1,24 +1,26 @@
-📌 Hotel Reservation System (Java + JDBC)
+🏨 Hotel Reservation System (Java + JDBC)
 📖 Project Overview
 
-Hotel Reservation System ek console-based Java application hai jo hotel room booking aur customer management ko automate karta hai.
-Is project me JDBC ka use karke MySQL database ke saath real-time data operations (CRUD) implement kiye gaye hain.
+The Hotel Reservation System is a console-based Java application designed to automate hotel room booking and customer management operations.
+The project uses JDBC (Java Database Connectivity) to interact with a MySQL database, enabling real-time data storage and retrieval.
 
-Ye project meri Java backend fundamentals, database handling, aur clean coding practices ko demonstrate karta hai.
+This project demonstrates my understanding of Java backend fundamentals, database connectivity, and clean, structured coding practices.
 
 🚀 Features
 
-🏨 Hotel Rooms ki booking
+Room booking management
 
-👤 Customer details management
+Customer details management
 
-📅 Check-in & Check-out system
+Check-in and check-out functionality
 
-📋 Available rooms dekhna
+View available rooms
 
-❌ Booking cancel karna
+Cancel reservations
 
-💾 Data MySQL database me store hota hai
+Persistent data storage using MySQL
+
+Secure and structured database operations
 
 🛠️ Technologies Used
 
@@ -28,12 +30,12 @@ Database: MySQL
 
 Connectivity: JDBC
 
-Concepts Used:
+IDE: Eclipse
 
-OOPs (Encapsulation, Abstraction)
+Concepts Applied:
+
+Object-Oriented Programming (OOP)
 
 JDBC CRUD Operations
-
-Exception Handling
 
 SQL Queries
